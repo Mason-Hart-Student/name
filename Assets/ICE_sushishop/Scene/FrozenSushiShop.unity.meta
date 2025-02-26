@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 321fa324531efbb4aa5ebabd34582a5a
+timeCreated: 1495641117
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91432
+  packageName: Ice shader - Tutorial
+  packageVersion: 1.1
+  assetPath: Assets/ICE_sushishop/Scene/FrozenSushiShop.unity
+  uploadId: 222161

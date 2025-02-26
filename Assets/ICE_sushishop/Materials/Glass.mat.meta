@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c5225c36c15c35418ac47c9b336bfe9
+timeCreated: 1495703388
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91432
+  packageName: Ice shader - Tutorial
+  packageVersion: 1.1
+  assetPath: Assets/ICE_sushishop/Materials/Glass.mat
+  uploadId: 222161

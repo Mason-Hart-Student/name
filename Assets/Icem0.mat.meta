@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66ba0c3ddbee5854c98cd9ee64b68918
+timeCreated: 1465479609
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91432
+  packageName: Ice shader - Tutorial
+  packageVersion: 1.1
+  assetPath: Assets/ICE_sushishop/Materials/Icem0.mat
+  uploadId: 222161

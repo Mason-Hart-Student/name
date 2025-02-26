@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9250937447121ac44b8acbacd35a4ad7
+timeCreated: 1495705128
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91432
+  packageName: Ice shader - Tutorial
+  packageVersion: 1.1
+  assetPath: Assets/ICE_sushishop/Materials/Plastic.mat
+  uploadId: 222161
