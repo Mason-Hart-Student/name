@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d9325a6a87e391845ada7879591b7837
+timeCreated: 1542114081
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139619
+  packageName: Lift Engine Lite
+  packageVersion: 1.0
+  assetPath: Assets/LiftEngine/Demo/Scripts/ResetPosition.cs
+  uploadId: 294409

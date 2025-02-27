@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: 4a670f95e3c9efb4db959cdeb73b7973
+timeCreated: 1550050532
+licenseType: Store
+PluginImporter:
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+    data:
+      first:
+        Any: 
+      second:
+        enabled: 1
+        settings: {}
+    data:
+      first:
+        Editor: Editor
+      second:
+        enabled: 0
+        settings:
+          DefaultValueInitialized: true
+    data:
+      first:
+        Windows Store Apps: WindowsStoreApps
+      second:
+        enabled: 0
+        settings:
+          CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139619
+  packageName: Lift Engine Lite
+  packageVersion: 1.0
+  assetPath: Assets/LiftEngine/Core/LiftEngine_Core.dll
+  uploadId: 294409

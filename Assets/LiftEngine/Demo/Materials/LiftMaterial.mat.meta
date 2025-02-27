@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4c4daeefa3bb6704eb91fc428b27a813
+timeCreated: 1550056734
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139619
+  packageName: Lift Engine Lite
+  packageVersion: 1.0
+  assetPath: Assets/LiftEngine/Demo/Materials/LiftMaterial.mat
+  uploadId: 294409

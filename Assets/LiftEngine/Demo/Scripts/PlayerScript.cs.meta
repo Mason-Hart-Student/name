@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4c6fba30d89ee414b87ed2b90234aab6
+timeCreated: 1541419328
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139619
+  packageName: Lift Engine Lite
+  packageVersion: 1.0
+  assetPath: Assets/LiftEngine/Demo/Scripts/PlayerScript.cs
+  uploadId: 294409

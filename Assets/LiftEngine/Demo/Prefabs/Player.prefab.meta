@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 471df67a1762f2a4dbd2604be02d372d
+timeCreated: 1541941968
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139619
+  packageName: Lift Engine Lite
+  packageVersion: 1.0
+  assetPath: Assets/LiftEngine/Demo/Prefabs/Player.prefab
+  uploadId: 294409

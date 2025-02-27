@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 832f3e40d66ff90419544d15bcd24e9a
+timeCreated: 1542023557
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139619
+  packageName: Lift Engine Lite
+  packageVersion: 1.0
+  assetPath: Assets/LiftEngine/Demo/Scripts/PowerAreaScript.cs
+  uploadId: 294409

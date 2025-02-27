@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 164c86a99c38d3540a1c171627366ee9
+timeCreated: 1541420777
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139619
+  packageName: Lift Engine Lite
+  packageVersion: 1.0
+  assetPath: Assets/LiftEngine/Demo/Scripts/CameraScript.cs
+  uploadId: 294409

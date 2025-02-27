@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 769d63fc09446024f84c174d8836c0cb
+timeCreated: 1549958391
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139619
+  packageName: Lift Engine Lite
+  packageVersion: 1.0
+  assetPath: Assets/LiftEngine/Demo/Prefabs/MoveLiftLite.prefab
+  uploadId: 294409

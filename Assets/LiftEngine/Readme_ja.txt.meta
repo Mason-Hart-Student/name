@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 36977cd4a9de89943b966f03a6f292e1
+timeCreated: 1542004335
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139619
+  packageName: Lift Engine Lite
+  packageVersion: 1.0
+  assetPath: Assets/LiftEngine/Readme_ja.txt
+  uploadId: 294409

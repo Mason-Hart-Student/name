@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa0081a8567e73a439e3cd8dab0f1777
+timeCreated: 1550050575
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139619
+  packageName: Lift Engine Lite
+  packageVersion: 1.0
+  assetPath: Assets/LiftEngine/Demo/Scenes/DemoLite.unity
+  uploadId: 294409

@@ -16,10 +16,6 @@ namespace Dypsloom.DypThePenguin.Scripts.Camera
         [Tooltip("The transform that the camera will follow.")]
         [SerializeField] protected Transform m_Follow;
 
-        private float turnSpeed = 5f;
-        [SerializeField] private float yOffset = 10.0f;
-        [SerializeField] private float zOffset = 10.0f;
-
         protected Vector3 m_StartOffset;
     
         /// <summary>
@@ -31,9 +27,7 @@ namespace Dypsloom.DypThePenguin.Scripts.Camera
                 m_Follow = GameObject.FindWithTag("Player").transform;
             }
         
-            m_StartOffset = new Vector3(m_Follow.position.x, m_Follow.position.y + yOffset, m_Follow.position.z + zOffset);
-            Cursor.lockState = CursorLockMode.Locked;
-            Cursor.visible = false;
+            m_StartOffset = transform.position - m_Follow.position;
         }
     
         /// <summary>
@@ -41,10 +35,7 @@ namespace Dypsloom.DypThePenguin.Scripts.Camera
         /// </summary>
         void LateUpdate () 
         {
-            transform.rotation = Quaternion.Euler(17, 0, 0);
-            m_StartOffset = Quaternion.AngleAxis(Input.GetAxis("Mouse X") * turnSpeed, Vector3.up) * m_StartOffset;
             transform.position = m_Follow.position + m_StartOffset;
-            transform.LookAt(m_Follow);
         }
     }
 }
