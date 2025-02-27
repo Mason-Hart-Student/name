@@ -116,6 +116,12 @@ namespace Dypsloom.DypThePenguin.Scripts.Character
         /// </summary>
         protected virtual void Update()
         {
+
+            if (Input.GetKey(KeyCode.LeftShift))
+            {
+                m_Speed = 8f;
+            }
+            else m_Speed = 5;
             if (m_CharacterController.isGrounded ) {
                 IsGrounded = true;
             } else if (

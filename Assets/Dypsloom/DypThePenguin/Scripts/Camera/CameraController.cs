@@ -29,13 +29,16 @@ namespace Dypsloom.DypThePenguin.Scripts.Camera
         
             m_StartOffset = transform.position - m_Follow.position;
         }
-    
+
         /// <summary>
         /// Late Update to remove hiccups.
         /// </summary>
-        void LateUpdate () 
+        void LateUpdate()
         {
             transform.position = m_Follow.position + m_StartOffset;
+            float xAxisInput = Input.GetAxis("Mouse X");
+
+            transform.rotation = Quaternion.Euler(0, xAxisInput, 0);
         }
     }
 }
